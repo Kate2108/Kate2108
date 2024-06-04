@@ -4,6 +4,16 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ0YWV4ZXU3cWQydnF2NG1jY3RxOWUxaHNtaW0xdnRwMWZldDN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 </div>
 
+### :woman_technologist: About Me :
+I am Java QA auto engineer
+
+- :classical_building: 4th-year student at Kazan Federal University, studying Software Engineering 
+
+- :bank: I have experience working as Java Developer in the banking industry.
+
+- :electron: Almost 2 years of experience in auto testing
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
